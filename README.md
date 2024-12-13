@@ -14,6 +14,7 @@ Run: **python3 DefenderInsights.py \<ThreatName\>**
  
 Example: python3 DefenderInsights.py SuspGolang.AG
 
+<img src="./Example.jpg" alt="example" />
 
 ### Note:
 
